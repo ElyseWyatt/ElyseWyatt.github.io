@@ -9,6 +9,13 @@ body {
     color: white;
 }
 
+a {
+  font-family: open sans, sans-serif;
+  font-size: 17px;
+  color: white;
+  padding: 20px;
+}
+
 h1 {
     color: white;
     padding: 20px;
