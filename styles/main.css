@@ -4,6 +4,7 @@ body {
     background: linear-gradient(to right bottom, #b03efd, #4353ff);
     height: 100%;
     width: 100%;
+    margin: 0%;
     font-family: Helvetica, Arial, Sans-Serif;
     padding: 20px;
     color: white;
@@ -23,6 +24,7 @@ h2 {
 p {
   font-family: open sans, sans-serif;
   color: #dbdadd;
+  padding: 50px;
   font-size: 17px;
   font-weight: 300px;
 }
