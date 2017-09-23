@@ -1,5 +1,8 @@
 body {
     background-image: url("stars.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
     font-family: Helvetica, Arial, Sans-Serif;
     Padding: 20px;
 }
