@@ -1,5 +1,5 @@
 
-.body {
+body {
     background: #3A3897;
     background: linear-gradient(to right bottom, #b03efd, #4353ff);
     height: 100%;
@@ -9,19 +9,19 @@
     color: white;
 }
 
-.a {
+a {
   font-family: open sans, sans-serif;
   font-size: 17px;
   color: #dbdadd;
   padding: 20px;
 }
 
-.h1 {
+h1 {
     color: white;
     padding: 20px;
     font-size: 40px;
 }
-.h2 {
+h2 {
   font-family: gotham, sans-serif;
   color: white;
   padding: 20px;
@@ -29,7 +29,7 @@
   font-weight: bold;
 }
 
-.p {
+p {
   font-family: open sans, sans-serif;
   color: #dbdadd;
   padding: 20px;
@@ -37,7 +37,7 @@
   font-weight: 300px;
   line-height: 1.6em;
 }
-.button {
+button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
