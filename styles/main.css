@@ -1,16 +1,15 @@
 body {
+    width: 100%;
     background-image: url("stars.jpg");
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
     font-family: Helvetica, Arial, Sans-Serif;
-    Padding: 20px;
-}
+    padding: 20px;
+    color: white;
+  }
 
-background-image {
-    width: 100%;
-    height: auto;
-}
 
 h1 {
     color: white;
