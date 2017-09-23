@@ -5,6 +5,7 @@ body {
     height: 100%;
     width: 100%;
     margin: 0%;
+    padding: 20px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Helvetica, Arial, Sans-Serif;
@@ -15,18 +16,15 @@ a {
   font-family: open sans, sans-serif;
   font-size: 17px;
   color: #dbdadd;
-  padding: 20px;
 }
 
 h1 {
     color: white;
-    padding: 20px;
     font-size: 40px;
 }
 h2 {
   font-family: gotham, sans-serif;
   color: white;
-  padding: 20px;
   font-size: 28px;
   font-weight: bold;
 }
@@ -34,7 +32,6 @@ h2 {
 p {
   font-family: open sans, sans-serif;
   color: #dbdadd;
-  padding: 20px;
   font-size: 17px;
   font-weight: 300px;
   line-height: 1.6em;
