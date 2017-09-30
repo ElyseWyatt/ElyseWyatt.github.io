@@ -6,6 +6,11 @@
 }
 
 .heading {
+  display: -webkit-flex;
+  display: flex;
+}
+.navigation {
+  display: -webkit-flex;
   display: flex;
 }
 
