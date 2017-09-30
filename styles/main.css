@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+.heading {
+  display: flex;
+}
+
 body {
     background: #3A3897;
     background: linear-gradient(to right bottom, #b03efd, #4353ff);
