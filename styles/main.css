@@ -9,6 +9,10 @@
   border: 1px solid red !important;
 }
 
+.row {
+  width: 100%;
+}
+
 .heading {
   display: -webkit-flex;
   display: flex;
