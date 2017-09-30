@@ -13,6 +13,16 @@
   width: 100%;
 }
 
+.col-1 {
+  width: 16.66%;
+}
+.col-2 {
+  width: 33.33%;
+}
+
+
+
+
 .heading {
   display: -webkit-flex;
   display: flex;
