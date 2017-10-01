@@ -28,10 +28,10 @@ nav {
   flex-wrap: wrap;
 }
 
-.logo {
+nav-logo {
   width: 25%;
 }
 
-.nav-menu {
+nav-menu {
   width: 75%;
 }
