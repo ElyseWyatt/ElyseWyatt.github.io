@@ -9,7 +9,7 @@
   border: 1px solid red !important;
 }
 
-.body {
+body {
     background: #3A3897;
     background: linear-gradient(to right bottom, #b03efd, #4353ff);
     height: 100%;
