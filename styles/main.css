@@ -9,6 +9,23 @@
   border: 1px solid red !important;
 }
 
+.body {
+    background: #3A3897;
+    background: linear-gradient(to right bottom, #b03efd, #4353ff);
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, Sans-Serif;
+    color: white;
+}
+
+
+
+
+
 .nav {
   width: 100%;
   display: flex; flex-wrap: wrap;
