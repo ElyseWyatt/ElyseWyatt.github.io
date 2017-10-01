@@ -31,6 +31,8 @@
 .navigation {
   display: -webkit-flex;
   display: flex;
+  position: relative;
+  float: right;
 }
 
 body {
