@@ -9,31 +9,34 @@
   border: 1px solid red !important;
 }
 
-.row {
+.nav {
   width: 100%;
   display: flex; flex-wrap: wrap;
-}
-
-.col-1 {
-  width: 16.66%;
-}
-.col-2 {
-  width: 33.33%;
-}
-
-
-
-
-.heading {
   display: -webkit-flex;
   display: flex;
+  position: relative;
 }
-.navigation {
+
+.nav-menu {
   display: -webkit-flex;
   display: flex;
   position: relative;
   float: right;
+
+.hero {
+  width: 100%;
+  display: flex; flex-wrap: wrap;
 }
+
+.hero-container {
+  width: 16.66%
+}
+
+
+
+
+
+
 
 body {
     background: #3A3897;
@@ -58,6 +61,7 @@ h1 {
     color: white;
     font-size: 40px;
 }
+
 h2 {
   font-family: gotham, sans-serif;
   color: white;
@@ -71,8 +75,6 @@ p {
   font-size: 17px;
   font-weight: 300px;
   line-height: 1.6em;
+  width: 50%;
 }
-
-.introduction {
-    width: 50%;
   }
