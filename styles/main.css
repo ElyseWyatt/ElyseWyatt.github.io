@@ -49,6 +49,12 @@ body {
   background-color: transparent;
 }
 
+.navigation-logo {
+  font-family: "Permanent Marker", sans-serif;
+  color: white;
+  font-size: 50px;
+}
+
 .nav-menu {
   font-family: "Open Sans", sans-serif;
   color: #dbdadd;
