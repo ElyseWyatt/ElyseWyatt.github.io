@@ -62,18 +62,21 @@ body {
   right: 0;
 }
 
-.a:link {
-  color: #dbdadd;
-  text-decoratin: none;
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
-.a:visited {
-    text-decoration: none;
+.li {
+  float: right;
 }
-.a:hover {
-    text-decoration: underline;
-}
-.a:active {
-    text-decoration: underline;
+.li .a {
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .main-hero {
