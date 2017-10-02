@@ -23,6 +23,8 @@ body {
     background-attachment: fixed;
 }
 
+
+
 .site-container {
   position: relative;
   display: block;
@@ -44,9 +46,9 @@ body {
 }
 
 .navigation-bar {
-  padding-top: 27px;
   background-color: transparent;
 }
+
 .main-hero {
   position: relative;
   display: flex;
@@ -56,4 +58,20 @@ body {
   flex-direction: column;
   -webkit-box-pack: center;
   justify-content: center;
+}
+
+.hero-heading {
+  font-family: Gotham, sans-serif;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Open Sans, sans-serif;
+  color: #dbdadd;
+  font-size: 17px;
+  font-weight: 300px;
+  line-height: 1.6em;
+  width: 50%;
 }
