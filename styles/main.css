@@ -62,22 +62,6 @@ body {
   right: 0;
 }
 
-.ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-.li {
-  float: right;
-}
-.li .a {
-  display: block;
-  color: white;
-  text-align: right;
-  padding: 14px 16px;
-  text-decoration: none;
-}
 
 .main-hero {
   position: relative;
