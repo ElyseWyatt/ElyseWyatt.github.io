@@ -72,7 +72,7 @@ body {
   flex-direction: column;
   -webkit-box-pack: center;
   justify-content: center;
-  margin: 5% 12% 5% 20%;
+  margin: 5% 20% 5% 20%;
 }
 
 .hero-heading {
