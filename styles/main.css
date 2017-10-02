@@ -45,10 +45,9 @@ body {
 }
 
 .navigation-logo {
-  font-family: "Montserrat", sans-serif;
-  font-style: italic;
+  font-family: "Gotham", sans-serif;
   color: white;
-  font-weight: 700px;
+  font-weight: bold;
   font-size: 30px;
 }
 
