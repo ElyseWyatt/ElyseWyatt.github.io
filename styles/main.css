@@ -57,6 +57,8 @@ body {
   font-size: 15px;
   font-weight: 300px;
   line-height: 1.6em;
+  top: 0;
+  right: 0;
 }
 
 .a:link {
