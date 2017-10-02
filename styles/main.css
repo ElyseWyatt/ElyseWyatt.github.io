@@ -49,6 +49,14 @@ body {
   background-color: transparent;
 }
 
+.nav-menu {
+  font-family: "Open Sans", sans-serif;
+  color: #dbdadd;
+  font-size: 15px;
+  font-weight: 300px;
+  line-height: 1.6em;
+}
+
 .main-hero {
   position: relative;
   display: flex;
