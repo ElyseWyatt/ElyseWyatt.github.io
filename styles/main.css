@@ -60,7 +60,7 @@ body {
 .main-hero {
   position: relative;
   display: flex;
-  height: 100vh;
+  height: 50vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   flex-direction: column;
