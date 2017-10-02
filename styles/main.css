@@ -60,6 +60,10 @@ body {
   line-height: 1.6em;
 }
 
+.a:link {
+  color: #dbdadd;
+}
+
 .main-hero {
   position: relative;
   display: flex;
