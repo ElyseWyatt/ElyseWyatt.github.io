@@ -61,6 +61,16 @@ body {
 
 .a:link {
   color: #dbdadd;
+  text-decoratin: none;
+}
+.a:visited {
+    text-decoration: none;
+}
+.a:hover {
+    text-decoration: underline;
+}
+.a:active {
+    text-decoration: underline;
 }
 
 .main-hero {
