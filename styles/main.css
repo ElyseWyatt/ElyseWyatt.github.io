@@ -47,3 +47,13 @@ body {
   padding-top: 27px;
   background-color: transparent;
 }
+.main-hero {
+  position: relative;
+  display: flex;
+  height: 100vh;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
