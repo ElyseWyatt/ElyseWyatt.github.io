@@ -6,16 +6,16 @@
 a {
   color: #f0f0f0;
   font-family: "Open Sans", sans-serif;
-  font-size: 15px;
+  font-size: 13px;
 }
 a:hover {
   color: #dad8d8;
   font-family: "Open Sans", sans-serif;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 
-.body {
+body {
   background-color: black;
 }
 h1 {
