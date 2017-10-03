@@ -20,8 +20,8 @@
 
 .col-8 {
   width: 66.67%;
-  position: relative;
-  float: right;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .body-container {
