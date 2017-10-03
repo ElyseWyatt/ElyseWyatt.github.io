@@ -56,16 +56,18 @@ p {
   box-sizing: border-box;
 }
 
-.col-4 {
-  width: 33.33%;
+.col-6 {
+  width: 50%;
   display: flex;
   flex-wrap: wrap;
+  float: right;
 }
 
-.col-8 {
-  width: 66.67%;
+.col-6 {
+  width: 50%;
   display: flex;
   flex-wrap: wrap;
+  float: right;
 }
 
 
