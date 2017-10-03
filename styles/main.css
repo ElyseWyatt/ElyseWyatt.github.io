@@ -61,7 +61,10 @@ body {
 
 
 
-
+@media (min-width: 1000px) {
+  .hero {
+    padding: 22rem 0; }
+}
 
 
 
