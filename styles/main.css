@@ -22,6 +22,10 @@ body {
   flex-wrap: wrap;
 }
 
+.body-row {
+  margin: 0% 10% 0% 10%;
+}
+
 
 .col-6 {
   width: 50%;
