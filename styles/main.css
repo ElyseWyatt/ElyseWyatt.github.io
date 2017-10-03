@@ -20,8 +20,8 @@ body {
 
 h1 {
   font-family: "Gotham", sans-serif;
-  color: grey;
-  font-size: 20px;
+  color: white;
+  font-size: 40px;
   font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ p {
 }
 
 
-nav-row {
+.nav-row {
   display: flex;
   flex-wrap: wrap;
 }
