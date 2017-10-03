@@ -3,36 +3,36 @@
   box-sizing: border-box;
 }
 
-.a {
+a {
   color: #f0f0f0;
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
 }
-.a:hover {
+a:hover {
   color: #dad8d8;
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
 }
 
-.body {
+body {
   background-color: #676EFD;
 }
 
-.h1 {
+h1 {
   font-family: "Gotham", sans-serif;
   color: white;
   font-size: 40px;
   font-weight: bold;
 }
 
-.h2 {
+h2 {
   font-family: "Gotham", sans-serif;
   color: blue;
   font-size: 15px;
   font-weight: bold;
 }
 
-.p {
+p {
   font-family: "Open Sans", sans-serif;
   color: #dbdadd;
   font-size: 17px;
