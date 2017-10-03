@@ -40,12 +40,6 @@ p {
   line-height: 1.6em;
 }
 
-
-.nav-row {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .container {
   max-width: 940px;
   position: relative;
@@ -55,6 +49,12 @@ p {
   padding: 0 20px;
   box-sizing: border-box;
 }
+
+.nav-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 
 .col-6 {
   width: 50%;
