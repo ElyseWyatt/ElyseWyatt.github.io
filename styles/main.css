@@ -3,8 +3,8 @@
   box-sizing: border-box;
 }
 
-#grad {
-  background: linear-gradient(to bottom right, red, yellow);
+.background {
+  color: black;
 }
 
 .h2 {
