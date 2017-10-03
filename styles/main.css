@@ -6,6 +6,12 @@
 .body {
   background-color: black;
 }
+.h1 {
+  font-family: "Gotham", sans-serif;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
 
 .h2 {
   font-family: "Gotham", sans-serif;
