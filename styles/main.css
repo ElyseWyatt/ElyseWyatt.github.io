@@ -31,6 +31,17 @@ h2 {
   font-size: 15px;
   font-weight: bold;
 }
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: #dbdadd;
+  font-size: 17px;
+  font-weight: 300px;
+  line-height: 1.6em;
+  width: 50%;
+}
+
+
 .nav-row {
   display: flex;
   flex-wrap: wrap;
@@ -65,20 +76,9 @@ h2 {
   box-sizing: border-box;
 }
 
-.a {
-  font-family: open sans, sans-serif;
-  font-size: 17px;
-  color: #dbdadd;
-}
 
-.p {
-  font-family: "Open Sans", sans-serif;
-  color: #dbdadd;
-  font-size: 17px;
-  font-weight: 300px;
-  line-height: 1.6em;
-  width: 50%;
-}
+
+
 
 
 
