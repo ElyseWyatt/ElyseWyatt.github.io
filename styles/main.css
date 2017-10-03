@@ -22,6 +22,10 @@
   width: 66.67%;
 }
 
+.col-12 {
+  width: 100%;
+}
+
 .container {
   position: relative;
   width: 100%;
