@@ -7,6 +7,12 @@
   background: linear-gradient(to bottom right, red, yellow);
 }
 
+.h2 {
+  font-family: "Gotham", sans-serif;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
 .nav-row {
   display: flex;
   flex-wrap: wrap;
