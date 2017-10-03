@@ -4,9 +4,15 @@
 }
 
 a {
-  color: grey; }
+  color: #f0f0f0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
 a:hover {
-  color: black; }
+  color: #dad8d8;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
 
 
 .body {
