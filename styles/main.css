@@ -3,41 +3,8 @@
   box-sizing: border-box;
 }
 
-a {
-  color: #f0f0f0;
-  font-family: "Open Sans", sans-serif;
-  font-size: 13px;
-}
-a:hover {
-  color: #dad8d8;
-  font-family: "Open Sans", sans-serif;
-  font-size: 17px;
-}
-
 body {
   background-color: #676EFD;
-}
-
-h1 {
-  font-family: "Gotham", sans-serif;
-  color: white;
-  font-size: 25px;
-  font-weight: bold;
-}
-
-h2 {
-  font-family: "Gotham", sans-serif;
-  color: white;
-  font-size: 40px;
-  font-weight: bold;
-}
-
-p {
-  font-family: "Open Sans", sans-serif;
-  color: #dbdadd;
-  font-size: 17px;
-  font-weight: 300px;
-  line-height: 1.6em;
 }
 
 .container {
@@ -76,6 +43,44 @@ p {
   float: left;
   box-sizing: border-box;
 }
+
+
+a {
+  color: #f0f0f0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+}
+a:hover {
+  color: #dad8d8;
+  font-family: "Open Sans", sans-serif;
+  font-size: 17px;
+}
+
+
+
+h1 {
+  font-family: "Gotham", sans-serif;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Gotham", sans-serif;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: #dbdadd;
+  font-size: 17px;
+  font-weight: 300px;
+  line-height: 1.6em;
+}
+
+
 
 
 
