@@ -11,7 +11,7 @@ a {
 a:hover {
   color: #dad8d8;
   font-family: "Open Sans", sans-serif;
-  font-size: 13px;
+  font-size: 17px;
 }
 
 body {
@@ -21,14 +21,14 @@ body {
 h1 {
   font-family: "Gotham", sans-serif;
   color: white;
-  font-size: 40px;
+  font-size: 25px;
   font-weight: bold;
 }
 
 h2 {
   font-family: "Gotham", sans-serif;
-  color: blue;
-  font-size: 15px;
+  color: white;
+  font-size: 40px;
   font-weight: bold;
 }
 
