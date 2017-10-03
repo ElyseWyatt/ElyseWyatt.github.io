@@ -3,6 +3,16 @@
   box-sizing: border-box;
 }
 
+.nav-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+
 .nav-container {
   margin-left: auto;
   margin-right: auto;
