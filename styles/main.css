@@ -37,7 +37,24 @@
   box-sizing: border-box;
 }
 
+.a {
+  font-family: open sans, sans-serif;
+  font-size: 17px;
+  color: #dbdadd;
+}
 
+.p {
+  font-family: open sans, sans-serif;
+  color: #dbdadd;
+  font-size: 17px;
+  font-weight: 300px;
+  line-height: 1.6em;
+  width: 50%;
+}
+
+.background {
+  color: black;
+}
 
 
 
