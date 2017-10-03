@@ -9,9 +9,9 @@ body {
 
 .container {
   max-width: 940px;
+  max-height: 100%;
   position: relative;
   width: 100%;
-  max-width: 960px;
   margin: 20px;
   padding: 0px;
   box-sizing: border-box;
