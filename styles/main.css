@@ -3,7 +3,10 @@
   box-sizing: border-box;
 }
 
-
+.nav-row {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 
 .nav-container {
