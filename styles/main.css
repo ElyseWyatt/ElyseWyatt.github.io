@@ -3,6 +3,10 @@
   box-sizing: border-box;
 }
 
+#grad {
+  background: linear-gradient(to bottom right, red, yellow);
+}
+
 .nav-row {
   display: flex;
   flex-wrap: wrap;
