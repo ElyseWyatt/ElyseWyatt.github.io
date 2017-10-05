@@ -24,11 +24,11 @@ body {
 }
 
 .nav-heading {
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Gotham", sans-serif;
   color: white;
   font-weight: 700;
-  letter-spacing: -0.8px;
+  letter-spacing: 2px;
   line-height: 40.5px;
   margin-bottom: 20px;
   margin-top: 0px;
