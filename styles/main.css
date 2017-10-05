@@ -9,10 +9,24 @@ body {
   background-color: #676EFD;
 }
 
-.section-hero {
+.section-nav {
   display: block;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
+  font-weight: normal;
+  height: 190px;
+  line-height: 24px;
+  padding-bottom: 220px;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: left;
+  text-size-adjust: 100%;
+}
+
+
+.section-hero {
+  display: block;
+  font-family: "Open Sans", sans-serif;  font-size: 15px;
   font-weight: normal;
   height: 190px;
   line-height: 24px;
@@ -71,6 +85,22 @@ body {
 
 
 
+/* Nav */
+
+    @media (min-width: 1000px) {
+      .section-nav {
+        padding: 22rem 0; }
+    }
+
+    @media (min-width: 750px) {
+      .section-nav {
+        height: 190px; }
+    }
+
+    @media (min-width: 550px) {
+      .section-nav {
+        text-align: left; }
+    }
 
 
 
