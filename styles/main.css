@@ -26,7 +26,7 @@ body {
 .nav-heading {
   font-size: 20px;
   font-family: "Gotham", sans-serif;
-  color: white;
+  color: #dbdadd;
   font-weight: 700;
   letter-spacing: 2px;
   line-height: 40.5px;
@@ -41,6 +41,11 @@ body {
 
 .nav-links {
   float: right;
+  font-size: 17px;
+  font-family: "Avenir", sans-serif;
+  color: #dbdadd;
+  font-weight: normal;
+  letter-spacing: 0.3px;
 }
 
 
