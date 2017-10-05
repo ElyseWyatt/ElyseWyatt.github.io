@@ -24,16 +24,12 @@ body {
 }
 
 .container {
-  box-sizing: border-box;
-  margin-bottom: 0px;
-  margin-left: 104.094px;
-  margin-right: 104.109px;
-  margin-top: 0px;
-  max-width: 960px;
-  padding-bottom: 0px;
-  padding-top: 0px;
   position: relative;
-  width: 832.797px;
+  width: 100%;
+  max-width: 960px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .hero-heading {
