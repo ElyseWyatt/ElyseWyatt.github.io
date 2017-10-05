@@ -86,11 +86,11 @@ body {
 
 .blurb {
   font-size: 17px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Gotham", sans-serif;
   color: #dbdadd;
   font-weight: 300;
   letter-spacing: -0.8px;
-  line-height: 20px;
+  line-height: 30px;
   margin-bottom: 20px;
   margin-top: 20px;
   -webkit-margin-after: 30px;
