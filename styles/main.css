@@ -12,6 +12,7 @@ body {
 .section-nav {
   display: block;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white;
   font-size: 15px;
   font-weight: normal;
   height: 190px;
@@ -26,6 +27,7 @@ body {
 .nav-heading {
   font-size: 40px;
   font-family: "Open Sans", sans-serif;
+  color: white;
   font-weight: 300;
   letter-spacing: -0.8px;
   line-height: 40.5px;
@@ -46,6 +48,7 @@ body {
 .section-hero {
   display: block;
   font-family: "Open Sans", sans-serif;
+  color: white;
   font-size: 15px;
   font-weight: 700;
   height: 190px;
@@ -68,7 +71,8 @@ body {
 
 .hero-heading {
   font-size: 40px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Gotham", sans-serif;
+  color: white;
   font-weight: bold;
   letter-spacing: -0.8px;
   line-height: 40.5px;
