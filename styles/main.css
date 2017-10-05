@@ -45,8 +45,11 @@ body {
   -webkit-margin-start: 0px;
 
 }
+
 .blurb {
-  font-size: 15px;
+  font-size: 17px;
+  font-family: "Open Sans", sans-serif;
+  color: #dbdadd;
   font-weight: 300;
   letter-spacing: -0.8px;
   line-height: 40.5px;
