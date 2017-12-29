@@ -13,9 +13,9 @@ body {
   color: white;
   font-size: 15px;
   font-weight: normal;
-  height: 0px;
+  height: 0px; /* removed, was something like 20px*/
   line-height: 24px;
-  padding-bottom: 0px;
+  padding-bottom: 0px; /* removed, was 20px */
   padding-left: 0px;
   padding-right: 0px;
   text-align: left;
