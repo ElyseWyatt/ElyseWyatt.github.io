@@ -1,17 +1,39 @@
 <!DOCTYPE html>
 <html>
+<title>Elyse's Sun & Moon</title>
+<meta charset="utf-8">
+<!-- Standard Coder Includes -->
+<script>
+    var appname = ""; //app name (id) of this app
+    var appurl = "{{&app_url}}";
+    var staticurl = "{{&static_url}}"; //base path to your static files /static/apps/yourapp
+</script>
+
+<link href="/static/apps/coderlib/css/index.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<script src="/static/common/js/jquery.min.js"></script>
+<script src="/static/common/ace-min/ace.js" type="text/javascript" charset="utf-8"></script>
+<script src="/static/apps/coderlib/js/index.js"></script>
+<script>
+    Coder.addBasicNav();
+</script>
+
+<!-- End Coder Includes -->
+
+<!-- This app's includes -->
+<link href="{{&static_url}}/css/index.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="{{&static_url}}/js/index.js"></script>
+<!-- End apps includes -->
+
+<link rel="icon" type="image/png" href="images/elyse-flavicon.png">
+
+</head>
+
+
+
+
   <head>
 
-    <!-- Basic Page Needs
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <title>Elyses Blog</title>
-    <meta charset="utf-8">
-    <meta name="description" content="Welcome to my blog.">
-    <meta name="author" content="Elyse Wyatt">
-
-    <!-- Mobile Specific Metas
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!--  <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 
 
     <!-- CSS
@@ -22,11 +44,14 @@
 
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/elyse-flavicon.png">
 
-  </head>
   <body>
-    Test
+      <div id= "orb" class= "sun">
+          <div id= "moonspot1"></div>
+          <div id= "moonspot2"></div>
+          <div id= "moonspot3"></div>
+      </div>
+      <div id= "sky" class= "day"></div>
   </body>
 
 
