@@ -12,7 +12,8 @@
 
 #sky {
     height: 100%;
-    width: 100%;
+    width: 100;
+    background-color: #676EFD;
 }
 
 #moonspot1 {
