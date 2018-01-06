@@ -137,6 +137,7 @@ p {
 
 button {
     color: #676EFD;
+    border: white;
     font-size: 15px;
     font-family: "Avenir", sans-serif;
     text-align: center;
