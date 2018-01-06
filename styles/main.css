@@ -123,12 +123,12 @@ body {
 
 
 /* Nav */
-
+/*
     @media (min-width: 1000px) {
       .section-nav {
         padding: 22rem 0; }
     }
-
+*/
     @media (min-width: 750px) {
       .section-nav {
         height: 190px; }
