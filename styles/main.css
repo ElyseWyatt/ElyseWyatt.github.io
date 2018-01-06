@@ -15,8 +15,6 @@ body {
 }
 
 
-
-
 .container {
   position: relative;
   width: 100%;
@@ -26,7 +24,51 @@ body {
   box-sizing: border-box;
 }
 
-.hero-heading {
+h4 {
+  font-size: 17px;
+  font-family: "Avenir", sans-serif;
+  color: #dbdadd;
+  font-weight: normal;
+  letter-spacing: 0.3px;
+  line-height: 25px;
+  margin-bottom: 20px;
+  -webkit-margin-after: 30px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-margin-start: 0px;
+
+}
+
+
+
+p {
+  line-height: 25px;
+  margin-bottom: 20px;
+  -webkit-margin-after: 30px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-margin-start: 0px;
+}
+
+button {
+    background-color: white;
+    border-radius: 100px;
+    color: #676EFD;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Avenir", sans-serif;
+    margin-bottom: 20px;
+  }
+
+
+
+
+
+
+
+
+
+/*.hero-heading {
   font-size: 40px;
   font-family: "Gotham", sans-serif;
   color: white;
@@ -41,29 +83,7 @@ body {
   -webkit-margin-start: 0px;
 
 }
-
-
-
-.blurb {
-  line-height: 25px;
-  margin-bottom: 20px;
-  -webkit-margin-after: 30px;
-  -webkit-margin-before: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-margin-start: 0px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 
@@ -150,32 +170,6 @@ body {
 
 
 
-
-.blurb {
-  font-size: 17px;
-  font-family: "Avenir", sans-serif;
-  color: #dbdadd;
-  font-weight: normal;
-  letter-spacing: 0.3px;
-  line-height: 25px;
-  margin-bottom: 20px;
-  -webkit-margin-after: 30px;
-  -webkit-margin-before: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-margin-start: 0px;
-
-}
-
-
-.button {
-    background-color: white;
-    border-radius: 100px;
-    color: #676EFD;
-    text-align: center;
-    font-size: 15px;
-    font-family: "Avenir", sans-serif;
-    margin-bottom: 20px;
-  }
 
 
 
