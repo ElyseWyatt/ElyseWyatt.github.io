@@ -136,8 +136,9 @@ p {
 }
 
 button {
-    color: white;
-    border-radius: 100px;
+    background-color: white;
+    color: #676EFD;
+    
   }
   /*
     color: #676EFD;
