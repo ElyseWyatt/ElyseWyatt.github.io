@@ -194,7 +194,7 @@ body {
     margin-left: 0;
   }
   */
-/*
+/* Can't tell what this did
     @media (min-width: 550px) {
     .one-half.column {
         width: 48%; }
@@ -223,17 +223,17 @@ there.
 */
 
 
-/* Larger than mobile */
+/* Larger than mobile */ /*
 @media (min-width: 400px) {}
 
-/* Larger than phablet (also point when grid becomes active) */
+/* Larger than phablet (also point when grid becomes active) *//*
 @media (min-width: 550px) {}
 
-/* Larger than tablet */
+/* Larger than tablet *//*
 @media (min-width: 750px) {}
 
-/* Larger than desktop */
+/* Larger than desktop *//*
 @media (min-width: 1000px) {}
 
-/* Larger than Desktop HD */
+/* Larger than Desktop HD *//*
 @media (min-width: 1200px) {}
