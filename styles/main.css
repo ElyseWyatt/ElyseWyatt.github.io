@@ -182,7 +182,7 @@ body {
 
 /* For devices larger than 550px */
 
-/*
+/* This changed indentation of blurb a little.
 @media (min-width: 550px) {
   .container {
     width: 80%; }
@@ -194,7 +194,7 @@ body {
     margin-left: 0;
   }
   */
-
+/*
     @media (min-width: 550px) {
     .one-half.column {
         width: 48%; }
@@ -202,7 +202,7 @@ body {
       position: relative; }
 }
 
-
+*/
 
 
 
