@@ -136,9 +136,12 @@ p {
 }
 
 button {
-    background-color: white;
     color: #676EFD;
-    
+    font-size: 15px;
+    font-family: "Avenir", sans-serif;
+    text-align: center;
+
+
   }
   /*
     color: #676EFD;
