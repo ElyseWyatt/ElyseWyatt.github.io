@@ -143,17 +143,17 @@ body {
       .section-nav {
         text-align: left; }
     }
-*/
+*/ /*This didn't do anything I could immediately see*/
 
 
 
 /* Hero */
-
+/*
 @media (min-width: 1000px) {
   .section-hero {
     padding: 22rem 0; }
 }
-
+*/
 @media (min-width: 750px) {
   .section-hero {
     height: 190px; }
