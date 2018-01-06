@@ -40,8 +40,10 @@ body {
   .columns:first-child {
     margin-left: 0;
   }
-
-
+  @media (min-width: 750px) {
+    .container {
+      height: 190px; }
+  }
 
 
 
@@ -278,45 +280,11 @@ button {
 */ /*This didn't do anything I could see*/
 
 /*
-@media (min-width: 550px) {
-  .section-hero {
-    text-align: left; }
-}
-
-*/ /*This didn't do anything I could see */
 
 
-/* Container *//* /*couldn't tell what this did
-@media (min-width: 400px) {
-  .container {
-    width: 85%;
-    padding: 0; }
-}
-*/
 
-/* For devices larger than 550px */
 
-/* This changed indentation of blurb a little.
-@media (min-width: 550px) {
-  .container {
-    width: 80%; }
-  .column,
-  .columns {
-    margin-left: 4%; }
-  .column:first-child,
-  .columns:first-child {
-    margin-left: 0;
-  }
-  */
-/* Can't tell what this did
-    @media (min-width: 550px) {
-    .one-half.column {
-        width: 48%; }
-    .phones {
-      position: relative; }
-}
 
-*/
 
 
 
