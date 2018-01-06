@@ -135,7 +135,8 @@ p {
   -webkit-margin-start: 0px;
 }
 
-.button {
+button {
+    display: block;
     color: #676EFD;
     background-color: white;
     font-size: 15px;
