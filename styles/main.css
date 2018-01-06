@@ -50,7 +50,7 @@ body {
 }
 */
 
-.section-hero {
+/*.section-hero {
   display: block;
   font-family: "Open Sans", sans-serif;
   color: white;
@@ -64,6 +64,7 @@ body {
   text-align: left;
   text-size-adjust: 100%;
 }
+*/
 
 .container {
   position: relative;
