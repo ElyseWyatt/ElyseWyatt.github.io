@@ -135,12 +135,15 @@ body {
       .section-nav {
         height: 190px; }
     }
-*/
+*/ /*This one decreased the gap slightly in the middle and moved the text up a bit*/
+
+/*
+
     @media (min-width: 550px) {
       .section-nav {
         text-align: left; }
     }
-
+*/
 
 
 
