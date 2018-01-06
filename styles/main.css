@@ -128,12 +128,14 @@ body {
       .section-nav {
         padding: 22rem 0; }
     }
-*/
+*/ /*This above media query made the gap at the top disappear*/
+
+/*
     @media (min-width: 750px) {
       .section-nav {
         height: 190px; }
     }
-
+*/
     @media (min-width: 550px) {
       .section-nav {
         text-align: left; }
