@@ -223,7 +223,7 @@ there.
 */
 
 
-/* Larger than mobile */ /*
+/* Larger than mobile */ 
 @media (min-width: 400px) {}
 
 /* Larger than phablet (also point when grid becomes active) */
