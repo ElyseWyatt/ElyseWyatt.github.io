@@ -1,5 +1,5 @@
 
-
+/* Don't know why I put this in - will leave it*/
 * {
   box-sizing: border-box;
 }
@@ -9,20 +9,20 @@ body {
   background-color: #676EFD;
 }
 
-/*.section-nav {
+.section-nav {
   display: block;
   color: white;
   font-size: 15px;
   font-weight: normal;
-  height: 0px; /* removed, was something like 20px*//*
+  height: 0px; /* removed, was something like 20px*/
   line-height: 24px;
-  padding-bottom: 0px; /* removed, was 20px *//*
+  padding-bottom: 0px; /* removed, was 20px */
   padding-left: 0px;
   padding-right: 0px;
   text-align: left;
-  text-size-adjust: 100%;
+  text-size-adjust: 100%; /*Not sure why this isn't working */
 }
-*/
+
 
 /*.nav-heading {
   font-size: 25px;
