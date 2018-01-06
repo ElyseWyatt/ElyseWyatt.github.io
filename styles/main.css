@@ -169,15 +169,16 @@ body {
     text-align: left; }
 }
 
-*/
+*/ /*This didn't do anything I could see */
 
-/* Container */
+
+/* Container *//*
 @media (min-width: 400px) {
   .container {
     width: 85%;
     padding: 0; }
 }
-
+*/
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
