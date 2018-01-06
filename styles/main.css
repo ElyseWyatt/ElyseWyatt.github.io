@@ -24,7 +24,7 @@ body {
 }
 
 
-/*.nav-heading {
+.logo {
   font-size: 25px;
   font-family: "Avenir", sans-serif;
   color: white;
@@ -39,7 +39,7 @@ body {
   -webkit-margin-start: 0px;
 
 }
-*/
+
 /*
 .nav-links {
   float: right;
