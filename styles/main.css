@@ -7,7 +7,7 @@
 
 body {
   background-color: #676EFD;
-  
+
 }
 
 
@@ -21,6 +21,22 @@ body {
 }
 
 h4 {
+font-size: 40px;
+font-family: "Gotham", sans-serif;
+color: white;
+font-weight: bold;
+letter-spacing: 0.8px;
+line-height: 40.5px;
+margin-bottom: 20px;
+margin-top: 0px;
+-webkit-margin-after: 30px;
+-webkit-margin-before: 0px;
+-webkit-margin-end: 0px;
+-webkit-margin-start: 0px;
+}
+
+
+p {
   font-size: 17px;
   font-family: "Avenir", sans-serif;
   color: #dbdadd;
@@ -28,16 +44,6 @@ h4 {
   letter-spacing: 0.3px;
   line-height: 25px;
   margin-bottom: 20px;
-  -webkit-margin-after: 30px;
-  -webkit-margin-before: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-margin-start: 0px;
-
-}
-
-
-
-p {
   line-height: 25px;
   margin-bottom: 20px;
   -webkit-margin-after: 30px;
