@@ -45,10 +45,11 @@ body {
   float: right;
   font-size: 17px;
   font-family: "Avenir", sans-serif;
-  color: #dbdadd;
+  color: white; /*-- was #dbdadd-->*/
   font-weight: normal;
   letter-spacing: 0.3px;
 }
+
 
 
 /*.section-hero {
