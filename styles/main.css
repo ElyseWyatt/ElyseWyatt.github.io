@@ -2,6 +2,7 @@
 
 body {
   background-color: #676EFD;
+  font-family: "Open Sans", sans-serif;
 }
 
 .container {
@@ -13,6 +14,20 @@ body {
   box-sizing: border-box;
 }
 
+/*
+font-family: "Open Sans", sans-serif;
+color: white;
+font-size: 15px;
+font-weight: 700;
+height: 190px;
+line-height: 24px;
+padding-bottom: 220px;
+padding-left: 0px;
+padding-right: 0px;
+text-align: left;
+text-size-adjust: 100%;
+
+*/
 .column,
 .columns {
   width: 100%;
@@ -44,10 +59,7 @@ body {
     .container {
       height: 190px; }
   }
-  @media (min-width: 1000px) {
-    .container {
-      padding: 22rem 0; }
-  }
+
 
 
 
@@ -222,61 +234,14 @@ button {
 
 
 
-/* Old container stuff
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  box-sizing: border-box;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-*/
-/*
-.hero-box {
-  margin: 50 50 50 50;
-}
 
 
 
 
 
 
-/* Nav */
-/*
-    @media (min-width: 1000px) {
-      .section-nav {
-        padding: 22rem 0; }
-    }
-*/ /*This above media query made the gap at the top disappear*/
-
-/*
-    @media (min-width: 750px) {
-      .section-nav {
-        height: 190px; }
-    }
-*/ /*This one decreased the gap slightly in the middle and moved the text up a bit*/
-
-/*
-
-    @media (min-width: 550px) {
-      .section-nav {
-        text-align: left; }
-    }
-*/ /*This didn't do anything I could immediately see*/
 
 
-
-/* Hero */
-/*
-@media (min-width: 1000px) {
-  .section-hero {
-    padding: 22rem 0; }
-}
-*/ /*This completely removed the big gap at the top*/
-
-
-/*
 
 
 
