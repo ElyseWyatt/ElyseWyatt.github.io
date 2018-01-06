@@ -78,6 +78,10 @@ body {
 }
 */
 
+.hero-box {
+  margin: 50 50 50 50;
+}
+
 .hero-heading {
   font-size: 40px;
   font-family: "Gotham", sans-serif;
