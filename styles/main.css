@@ -8,7 +8,7 @@ body {
   position: relative;
   width: 100%;
   max-width: 960px;
-  margin: 100px 0px 100px 0px;
+  margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
 }
@@ -19,12 +19,16 @@ body {
   float: left;
   box-sizing: border-box;
 }
+
+
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
     width: 85%;
     padding: 0; }
 }
+
+
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
@@ -36,6 +40,11 @@ body {
   .columns:first-child {
     margin-left: 0;
   }
+
+
+
+
+
   /*
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
@@ -83,7 +92,7 @@ margin-top: 0px;
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.2rem; }
   h3 { font-size: 3.6rem; }
-  h4 { font-size: 3.0rem; }
+  h4 { font-size: 3.0rem; } /* might screw up other styling */
   h5 { font-size: 2.4rem; }
   h6 { font-size: 1.5rem; }
 }
