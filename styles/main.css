@@ -56,6 +56,11 @@ body {
 */
   .one-half.column                { width: 55%;
   }
+  .offset-by-one-half.column,
+  .offset-by-one-half.columns     { margin-left: 52%;
+  }
+
+
 
 
 
