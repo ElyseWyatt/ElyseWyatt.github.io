@@ -7,7 +7,66 @@
 
 body {
   background-color: #676EFD;
+  color: #dbdadd;
+  font-size: 17px;
+  font-family: "Avenir", sans-serif;
+  font-weight: normal;
+  letter-spacing: 0.3px;
 }
+
+
+
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.hero-heading {
+  font-size: 40px;
+  font-family: "Gotham", sans-serif;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+  line-height: 40.5px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  -webkit-margin-after: 30px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-margin-start: 0px;
+
+}
+
+
+
+.blurb {
+  line-height: 25px;
+  margin-bottom: 20px;
+  -webkit-margin-after: 30px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-margin-start: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .navbar {
   display: block;
@@ -52,14 +111,7 @@ body {
 
 
 
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box;
-}
+
 
 /* Old stuff for container:
 
@@ -79,15 +131,9 @@ body {
 */
 
 
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box; }
 
-/*
+
+/* Old container stuff
 .container {
   position: relative;
   width: 100%;
@@ -102,21 +148,7 @@ body {
   margin: 50 50 50 50;
 }
 
-.hero-heading {
-  font-size: 40px;
-  font-family: "Gotham", sans-serif;
-  color: white;
-  font-weight: bold;
-  letter-spacing: 0.8px;
-  line-height: 40.5px;
-  margin-bottom: 20px;
-  margin-top: 0px;
-  -webkit-margin-after: 30px;
-  -webkit-margin-before: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-margin-start: 0px;
 
-}
 
 
 .blurb {
