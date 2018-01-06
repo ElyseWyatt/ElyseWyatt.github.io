@@ -135,14 +135,14 @@ p {
   -webkit-margin-start: 0px;
 }
 
-button {
+.button {
     color: #676EFD;
-    box-shadow: none;
+
     font-size: 15px;
     font-family: "Avenir", sans-serif;
     text-align: center;
     padding: 5px;
-  
+
 
 
   }
