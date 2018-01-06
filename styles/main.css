@@ -44,6 +44,10 @@ body {
     .container {
       height: 190px; }
   }
+  @media (min-width: 1000px) {
+    .container {
+      padding: 22rem 0; }
+  }
 
 
 
@@ -273,13 +277,7 @@ button {
 
 
 /*
-@media (min-width: 750px) {
-  .section-hero {
-    height: 190px; }
-}
-*/ /*This didn't do anything I could see*/
 
-/*
 
 
 
