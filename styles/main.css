@@ -172,7 +172,7 @@ body {
 */ /*This didn't do anything I could see */
 
 
-/* Container *//*
+/* Container *//* /*couldn't tell what this did
 @media (min-width: 400px) {
   .container {
     width: 85%;
@@ -181,6 +181,8 @@ body {
 */
 
 /* For devices larger than 550px */
+
+/*
 @media (min-width: 550px) {
   .container {
     width: 80%; }
@@ -189,7 +191,9 @@ body {
     margin-left: 4%; }
   .column:first-child,
   .columns:first-child {
-    margin-left: 0; }
+    margin-left: 0;
+  }
+  */
 
     @media (min-width: 550px) {
     .one-half.column {
