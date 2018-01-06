@@ -161,14 +161,15 @@ body {
   .section-hero {
     height: 190px; }
 }
-*/
+*/ /*This didn't do anything I could see*/
 
+/*
 @media (min-width: 550px) {
   .section-hero {
     text-align: left; }
 }
 
-
+*/
 
 /* Container */
 @media (min-width: 400px) {
