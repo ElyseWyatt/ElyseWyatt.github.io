@@ -145,6 +145,7 @@ button {
     padding: 5px;
   }
 */
+/*
 .button,
 button,
 input[type="submit"],
@@ -172,7 +173,7 @@ padding: 0 30px;
 color: #676EFD;
   font-weight: 600;
 */
-
+/*
 .button:hover,
 button:hover,
 input[type="submit"]:hover,
@@ -213,12 +214,12 @@ input[type="button"].button-primary:focus {
   border-color: #1EAEDB;
 }
 */
-
+/*
 a:link {
     text-decoration: none;
     color: #dbdadd;
 }
-
+*/
 
 
 
