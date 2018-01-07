@@ -161,7 +161,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px;
-  border: 1px solid #dbdadd;
+  border: 0px solid #dbdadd;
   cursor: pointer;
   box-sizing: border-box;
 }
