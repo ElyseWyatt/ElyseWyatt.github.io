@@ -151,7 +151,6 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   display: inline-block;
-  padding: 0 30px;
   color: #676EFD;
   text-align: center;
   font-size: 11px;
@@ -170,6 +169,7 @@ input[type="button"] {
 /*
 
 height: 38px;
+padding: 0 30px;
 */
 
 .button:hover,
