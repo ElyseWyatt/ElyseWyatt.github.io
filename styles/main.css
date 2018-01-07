@@ -145,6 +145,10 @@ button {
     padding: 5px;
   }
 */
+
+.button, button {
+  display: inline-block;
+}
 /*
 .button,
 button,
