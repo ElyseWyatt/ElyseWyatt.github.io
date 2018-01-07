@@ -148,6 +148,10 @@ button {
 
 .button, button {
   display: inline-block;
+  color: #676EFD;
+  background-color: transparent;
+  border: 0px solid #dbdadd;
+  border-radius: 4px;
 }
 /*
 .button,
