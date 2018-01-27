@@ -20,7 +20,7 @@ body {
 }
 
 .navigation {
-  height: 75px;
+  /* height: 75px; */
   background-color: #676EFD;
   border-bottom: 1px solid #676EFD;
   position: fixed;
