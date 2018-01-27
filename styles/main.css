@@ -221,8 +221,16 @@ body {
 }
 
 .column-one {
-
+  padding-right: 90px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
+.column-two {
+  float: left;
+  width: 50%;
+}
+
+
 
 
 
@@ -234,12 +242,15 @@ h4 {
   letter-spacing: 0.8px;
   line-height: 40.5px;
   margin-bottom: 20px;
-  margin-top: 0px;
+  margin-top: 10px;
   -webkit-margin-after: 30px;
   -webkit-margin-before: 0px;
   -webkit-margin-end: 0px;
   -webkit-margin-start: 0px;
   }
+
+ 
+
 
 .blurb {
   width: 55%;
@@ -259,7 +270,14 @@ p {
   -webkit-margin-before: 0px;
   -webkit-margin-end: 0px;
   -webkit-margin-start: 0px;
+  text-transform: none;
 }
+
+
+
+
+
+
 
 button {
   color: #676EFD;
