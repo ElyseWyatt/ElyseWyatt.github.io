@@ -225,12 +225,12 @@ body {
   padding-right: 90px;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  width: 50%;
+  width: 70%;
 
 }
 .column-two {
   float: left;
-  width: 50%;
+  width: 30%;
 }
 
 
