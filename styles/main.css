@@ -5,6 +5,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 17px;
   box-sizing: border-box;
+  max-width: 100%;
 }
 
 
@@ -39,7 +40,7 @@ a {
 
 .page-container {
   position: relative;
-  width: 100%;
+  max-width: 100%;
   max-width: 960px;
   margin: 0 60px;
   padding: 0 10px;
