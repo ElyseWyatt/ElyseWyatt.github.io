@@ -192,6 +192,33 @@ body {
   margin-left: 20px;
 }
 
+.me-link a {
+  color: #2d46af;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 75px;
+  height: 75px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 0 20px;
+  position: relative;
+  text-align: right;
+}
+
+.hardware-link a {
+  color: #2d46af;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 75px;
+  height: 75px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 0 20px;
+  position: relative;
+  text-align: right;
+}
 
 .home-link a {
   color: #2d46af;
@@ -252,6 +279,7 @@ h4 {
 } */
 
 p {
+  width: 60%;
   font-size: 17px;
   font-family: "Avenir", sans-serif;
   color: #dbdadd;
