@@ -19,6 +19,9 @@ body {
 
 .logo {
   color: white;
+  font-family: "Gotham", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .nav-options {
@@ -45,6 +48,20 @@ a {
   margin: 200px 0px;
 }
 
+h4 {
+  font-size: 2.5em;
+  font-family: "Gotham", sans-serif;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+  line-height: 40.5px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  -webkit-margin-after: 30px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-margin-start: 0px;
+  }
 
 .blurb {
   width: 55%;
@@ -113,20 +130,7 @@ a {
 
 
 
-h4 {
-font-size: 2.5em;
-font-family: "Gotham", sans-serif;
-color: white;
-font-weight: bold;
-letter-spacing: 0.8px;
-line-height: 40.5px;
-margin-bottom: 20px;
-margin-top: 0px;
--webkit-margin-after: 30px;
--webkit-margin-before: 0px;
--webkit-margin-end: 0px;
--webkit-margin-start: 0px;
-}
+
 
 /* Larger than phablet */ /*
 @media (min-width: 550px) {
