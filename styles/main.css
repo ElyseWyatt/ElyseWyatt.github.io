@@ -10,14 +10,14 @@ body {
 
 
 
-.nav-section {
+/* .nav-section {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
   width: 98%;
   margin: 10px;
   color: white;
-}
+} */
 
 .navigation {
   /* height: 75px; */
