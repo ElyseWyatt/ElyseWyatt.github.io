@@ -19,6 +19,11 @@ body {
   color: white;
 }
 
+@media (min-width: 750px) {
+  .nav-section {
+    height: 190px;
+  }
+
 .logo {
   color: white;
   font-family: "Avenir", sans-serif;
