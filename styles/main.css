@@ -173,30 +173,57 @@ body {
 
 .logo {
   color: white;
+  display: inline-block;
+  background-position: center center;
   font-family: "Avenir", sans-serif;
   font-weight: normal;
   font-size: 25px;
   letter-spacing: 1px;
 }
 
+
 .nav-options {
   color: #dbdadd;
   text-decoration: none;
+  margin: 0;
+  list-style-type: none;
+  display: inline-block;
+  -webkit-padding-start: 0;
+  margin-left: 20px;
 }
 
 
-a {
+.home-link a {
   color: #2d46af;
   text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 75px;
+  height: 75px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 0 20px;
+  position: relative;
 }
-
 
 
 
 .middle-section {
-  justify-content: space-between;
-  margin: 200px 0px;
+  /* justify-content: space-between;
+  margin: 200px 0px; */
+  min-height: 500px;
+  padding-top: 200px;
 }
+
+.row {
+  width: 100%;
+}
+
+.column-one {
+  
+}
+
+
 
 h4 {
   font-size: 2.5em;
