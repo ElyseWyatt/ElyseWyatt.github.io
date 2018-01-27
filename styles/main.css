@@ -21,7 +21,7 @@ body {
 
 @media (min-width: 200px) {
   .nav-section {
-    height: 190px;
+    margin: 20%;
   }
 
 
