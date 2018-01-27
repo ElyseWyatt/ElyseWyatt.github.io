@@ -313,12 +313,13 @@ p {
     width: 70%;
   }
 }
+*/
 @media (min-width: 400px) {
   p {
     width: 85%;
     padding: 0;
   }
-} */
+} 
 
 
 
