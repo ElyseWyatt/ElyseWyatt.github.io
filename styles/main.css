@@ -87,13 +87,15 @@ p {
 }
 
 button {
+  color: #676EFD;
   background-color: white;
+  font-family: "Avenir", sans-serif;
   border: none;
-  padding: 15px;
+  padding: 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 /* .column,
