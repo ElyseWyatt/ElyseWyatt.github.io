@@ -21,14 +21,13 @@ body {
 
 .navigation {
   height: 75px;
-  background-color: #fff;
-  border-bottom: 1px solid #e2e7ed;
+  background-color: #676EFD;
+  border-bottom: 1px solid #676EFD;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 9999;
-  transition: background-color 0.1s linear;
 }
 
 
