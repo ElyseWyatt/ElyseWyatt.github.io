@@ -18,9 +18,21 @@ body {
 .nav-container {
   display: flex;
   justify-content: space-between;
-  margin: 0px;
+  margin: 0px 50px;
   flex-direction: row;
   width: 100%;
+}
+
+
+
+
+
+
+
+.middle-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 0px;
 }
 
 /* .column,
