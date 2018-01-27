@@ -204,6 +204,7 @@ body {
   font-weight: 600;
   padding: 0 20px;
   position: relative;
+  text-align: right;
 }
 
 
@@ -220,7 +221,7 @@ body {
 }
 
 .column-one {
-  
+
 }
 
 
