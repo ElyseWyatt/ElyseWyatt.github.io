@@ -97,8 +97,8 @@ button {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 8px;
-  border-radius: 12px;
+  font-size: 12px;
+  border-radius: 8px;
 }
 
 /* .column,
