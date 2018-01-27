@@ -26,12 +26,12 @@ body {
 }
 
 .nav-options {
-  color: white
+  color: #dbdadd;
 }
 
 
 a {
-  color: white;
+  color: #dbdadd;
 }
 
 .page-container {
@@ -66,6 +66,22 @@ h4 {
 
 .blurb {
   width: 55%;
+}
+
+p {
+  font-size: 17px;
+  font-family: "Avenir", sans-serif;
+  color: #dbdadd;
+  font-weight: normal;
+  letter-spacing: 0.3px;
+  line-height: 25px;
+  margin-bottom: 20px;
+  line-height: 25px;
+  margin-bottom: 20px;
+  -webkit-margin-after: 30px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-margin-start: 0px;
 }
 
 /* .column,
@@ -144,21 +160,7 @@ h4 {
 }
 */
 
-p {
-  font-size: 17px;
-  font-family: "Avenir", sans-serif;
-  color: #dbdadd;
-  font-weight: normal;
-  letter-spacing: 0.3px;
-  line-height: 25px;
-  margin-bottom: 20px;
-  line-height: 25px;
-  margin-bottom: 20px;
-  -webkit-margin-after: 30px;
-  -webkit-margin-before: 0px;
-  -webkit-margin-end: 0px;
-  -webkit-margin-start: 0px;
-}
+
 
 /*
 button {
