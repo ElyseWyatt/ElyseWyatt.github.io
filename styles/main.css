@@ -86,6 +86,10 @@ p {
   -webkit-margin-start: 0px;
 }
 
+.button {
+  color: red;
+}
+
 /* .column,
 .columns {
   width: 100%;
