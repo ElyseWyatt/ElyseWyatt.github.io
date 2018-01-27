@@ -90,12 +90,13 @@ button {
   color: #676EFD;
   background-color: white;
   font-family: "Avenir", sans-serif;
+  letter-spacing: 1px;
   border: none;
-  padding: 12px;
+  padding: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 /* .column,
