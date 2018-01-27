@@ -33,6 +33,7 @@ body {
 
 a {
   color: #dbdadd;
+  text-decoration: none;
 }
 
 .page-container {
