@@ -17,6 +17,10 @@ body {
 
 .nav-container {
   display: flex;
+  justify-content: space-between;
+  margin: 0px;
+  flex-direction: row;
+  width: 100%;
 }
 
 .column,
