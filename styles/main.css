@@ -303,7 +303,7 @@ p {
   }
 }
 
-@media (min-width: 875px) {
+/* @media (min-width: 875px) {
   p {
     width: 60%;
   }
@@ -318,7 +318,7 @@ p {
     width: 85%;
     padding: 0;
   }
-}
+} */
 
 
 
