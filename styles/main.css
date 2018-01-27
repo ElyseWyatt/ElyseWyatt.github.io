@@ -6,14 +6,7 @@ body {
   font-size: 17px;
 }
 
-.page-container {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 30px;
-  padding: 0 auto;
-  box-sizing: border-box;
-}
+
 
 .nav-section {
   display: flex;
@@ -38,6 +31,14 @@ a {
   color: white;
 }
 
+.page-container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 60px;
+  padding: 0 auto;
+  box-sizing: border-box;
+}
 
 
 .middle-section {
