@@ -218,12 +218,16 @@ body {
 
 .row {
   width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .column-one {
   padding-right: 90px;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  width: 50%;
+
 }
 .column-two {
   float: left;
