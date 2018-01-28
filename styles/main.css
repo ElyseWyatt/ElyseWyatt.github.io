@@ -176,6 +176,7 @@ body {
   font-weight: normal;
   font-size: 25px;
   letter-spacing: 1px;
+  text-decoration: none;
 }
 
 
@@ -188,6 +189,12 @@ body {
   display: inline-block;
   -webkit-padding-start: 0;
   margin-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .me-link a {
