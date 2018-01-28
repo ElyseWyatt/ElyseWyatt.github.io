@@ -170,13 +170,13 @@ body {
 
 .logo {
   color: white;
-  display: inline-block;
+  /* display: inline-block;
   background-position: center center;
   font-family: "Avenir", sans-serif;
   font-weight: normal;
   font-size: 25px;
   letter-spacing: 1px;
-  text-decoration: none;
+  text-decoration: none; */
 }
 
 
