@@ -168,7 +168,7 @@ body {
 
 
 
-.logo {
+/* .logo {
   color: white;
   /* display: inline-block;
   background-position: center center;
@@ -180,7 +180,7 @@ body {
 }
 
 
-.nav-options {
+/* .nav-options {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
@@ -199,8 +199,8 @@ ul {
 
 li {
   float: left;
-}
-
+} */
+/* 
 .me-link a {
     display: block;
     text-decoration: none;
@@ -222,8 +222,8 @@ li {
     text-decoration: none;
     padding: 10px;
     background-color: #dddddd;
-    font-size: 13px;
-}
+    font-size: 13px; */
+} */
 
 
 /* .me-link a {
