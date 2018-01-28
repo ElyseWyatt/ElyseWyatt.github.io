@@ -278,7 +278,7 @@ a {
 
 .row {
   width: 100%;
-  display: flex;
+  /* display: flex; */
   flex-direction: row;
   padding-right: 90px;
   box-sizing: border-box;
