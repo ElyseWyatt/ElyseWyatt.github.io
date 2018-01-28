@@ -168,13 +168,22 @@ ul {
   text-align: right;
 }
 
-li {
+
+
+.me-link li {
   float: right;
   padding: 10px;
-} 
+}
 
+.hardware-link li {
+  float: right;
+  padding: 10px;
+}
 
-
+.home-link li {
+  float: right;
+  padding: 10px;
+}
 
 
 /* .logo {
