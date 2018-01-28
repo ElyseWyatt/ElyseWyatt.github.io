@@ -166,12 +166,15 @@ ul {
   margin: 0;
   padding: 0;
   text-align: right;
-  text-decoration: none;
 }
 
 li {
   float: right;
   padding: 10px;
+}
+
+a {
+  text-decoration: none;
 }
 
 
