@@ -278,7 +278,7 @@ a {
 
 .row {
   width: 100%;
-  /* display: flex; */
+  /* display: flex; */ /* This made the boxes sit beside each other*/
   flex-direction: row;
   padding-right: 90px;
   box-sizing: border-box;
