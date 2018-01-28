@@ -272,7 +272,7 @@ a {
 .middle-section {
   /* justify-content: space-between;
   margin: 200px 0px; */
-  min-height: 500px;
+  min-height: 100%;
   padding-top: 200px;
 }
 
