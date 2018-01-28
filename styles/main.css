@@ -12,7 +12,7 @@ body {
 }
   @keyframes colorchange
   {
-    0%   {background: rgb(171, 185, 216);}
+    0%   {background: rgb(103, 110, 253);}
     25%  {background: rgb(82, 112, 178);}
     50%  {background: rgb(50, 75, 130);}
     75%  {background: rgb(86, 161, 169);}
@@ -21,7 +21,7 @@ body {
 
   @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
   {
-    0%   {background: rgb(171, 185, 216);}
+    0%   {background: rgb(103, 110, 253);}
     25%  {background: rgb(82, 112, 178);}
     50%  {background: rgb(50, 75, 130);}
     75%  {background: rgb(86, 161, 169);}
