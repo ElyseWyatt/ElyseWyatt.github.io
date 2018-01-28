@@ -201,11 +201,30 @@ li {
   float: left;
 }
 
-a {
-  display: block;
-    padding: 8px;
+.me-link a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
     background-color: #dddddd;
+    font-size: 13px;
 }
+
+.hardware-link a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #dddddd;
+    font-size: 13px;
+}
+
+.home-link a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #dddddd;
+    font-size: 13px;
+}
+
 
 /* .me-link a {
   color: white;
