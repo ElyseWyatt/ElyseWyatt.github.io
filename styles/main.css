@@ -197,6 +197,10 @@ ul {
   padding: 0;
 }
 
+li {
+  display: inline;
+}
+
 .me-link a {
   color: white;
   text-decoration: none;
