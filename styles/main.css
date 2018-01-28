@@ -6,7 +6,7 @@ body {
   font-size: 17px;
   box-sizing: border-box;
   max-width: 100%;
-  animation: colorchange 3s infinite; /* animation-name followed by duration in seconds*/
+  animation: colorchange 1.5s infinite; /* animation-name followed by duration in seconds*/
          /* you could also use milliseconds (ms) or something like 2.5s */
     -webkit-animation: colorchange 40s infinite;
 }
