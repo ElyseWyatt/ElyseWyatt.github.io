@@ -6,26 +6,26 @@ body {
   font-size: 17px;
   box-sizing: border-box;
   max-width: 100%;
-  animation: colorchange 40s infinite; /* animation-name followed by duration in seconds*/
+  animation: colorchange 3s infinite; /* animation-name followed by duration in seconds*/
          /* you could also use milliseconds (ms) or something like 2.5s */
     -webkit-animation: colorchange 40s infinite;
 }
   @keyframes colorchange
   {
-    0%   {background: rgb(103, 110, 253);}
-    25%  {background: rgb(65, 71, 193);}
-    50%  {background: rgb(125, 130, 224);}
-    75%  {background: rgb(38, 100, 193);}
-    100% {background: rgb(140, 127, 196);}
+    0%   {background: rgb(171, 185, 216);}
+    25%  {background: rgb(82, 112, 178);}
+    50%  {background: rgb(50, 75, 130);}
+    75%  {background: rgb(86, 161, 169);}
+    100% {background: rgb(103, 110, 253);}
   }
 
   @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
   {
-    0%   {background: rgb(103, 110, 253);}
-    25%  {background: rgb(65, 71, 193);}
-    50%  {background: rgb(125, 130, 224);}
-    75%  {background: rgb(38, 100, 193);}
-    100% {background: rgb(140, 127, 196);}
+    0%   {background: rgb(171, 185, 216);}
+    25%  {background: rgb(82, 112, 178);}
+    50%  {background: rgb(50, 75, 130);}
+    75%  {background: rgb(86, 161, 169);}
+    100% {background: rgb(103, 110, 253);}
   }
 
 
