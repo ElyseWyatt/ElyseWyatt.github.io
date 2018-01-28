@@ -199,9 +199,10 @@ ul {
 
 li {
   display: inline;
+  float: left;
 }
 
-.me-link a {
+/* .me-link a {
   color: white;
   text-decoration: none;
   cursor: pointer;
@@ -211,8 +212,8 @@ li {
   font-weight: 600;
   position: relative;
   text-align: right;
-}
-
+} */
+/* 
 .hardware-link a {
   color: white;
   text-decoration: none;
@@ -235,7 +236,7 @@ li {
   font-weight: 600;
   position: relative;
   text-align: right;
-}
+} */
 
 
 
