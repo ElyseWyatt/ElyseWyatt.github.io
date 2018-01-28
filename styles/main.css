@@ -171,6 +171,7 @@ ul {
 li {
   float: right;
   padding: 10px;
+  color: white;
 }
 
 a {
@@ -188,7 +189,7 @@ a {
   font-size: 25px;
   letter-spacing: 1px;
   text-decoration: none; */
-}
+
 
 
 /* .nav-options {
@@ -228,7 +229,7 @@ a {
     padding: 10px;
     background-color: #dddddd;
     font-size: 13px; */
-} */
+
 
 
 /* .me-link a {
