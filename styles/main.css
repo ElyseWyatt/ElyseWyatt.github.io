@@ -12,20 +12,20 @@ body {
 }
   @keyframes colorchange
   {
-    0%   {background: rgb(238, 136, 53);}
-    25%  {background: rgb(62, 212, 205);}
-    50%  {background: rgb(235, 141, 214);}
-    75%  {background: rgb(131, 241, 131);}
-    100% {background: rgb(248, 240, 129);}
+    0%   {background: rgb(103, 110, 253);}
+    25%  {background: rgb(65, 71, 193);}
+    50%  {background: rgb(125, 130, 224);}
+    75%  {background: rgb(38, 100, 193);}
+    100% {background: rgb(140, 127, 196);}
   }
 
   @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
   {
-    0%   {background: rgb(238, 136, 53);}
-    25%  {background: rgb(62, 212, 205);}
-    50%  {background: rgb(235, 141, 214);}
-    75%  {background: rgb(131, 241, 131);}
-    100% {background: rgb(248, 240, 129);}
+    0%   {background: rgb(103, 110, 253);}
+    25%  {background: rgb(65, 71, 193);}
+    50%  {background: rgb(125, 130, 224);}
+    75%  {background: rgb(38, 100, 193);}
+    100% {background: rgb(140, 127, 196);}
   }
 
 
