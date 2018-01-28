@@ -1,12 +1,33 @@
 
 
 body {
-  background-color: #676EFD;
+  /* background-color: #676EFD; */
   font-family: "Open Sans", sans-serif;
   font-size: 17px;
   box-sizing: border-box;
   max-width: 100%;
+  animation: colorchange 40s infinite; /* animation-name followed by duration in seconds*/
+         /* you could also use milliseconds (ms) or something like 2.5s */
+    -webkit-animation: colorchange 40s infinite;
 }
+  @keyframes colorchange
+  {
+    0%   {background: rgb(238, 136, 53);}
+    25%  {background: rgb(62, 212, 205);}
+    50%  {background: rgb(235, 141, 214);}
+    75%  {background: rgb(131, 241, 131);}
+    100% {background: rgb(248, 240, 129);}
+  }
+
+  @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+  {
+    0%   {background: rgb(238, 136, 53);}
+    25%  {background: rgb(62, 212, 205);}
+    50%  {background: rgb(235, 141, 214);}
+    75%  {background: rgb(131, 241, 131);}
+    100% {background: rgb(248, 240, 129);}
+  }
+
 
 
 
