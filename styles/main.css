@@ -166,7 +166,9 @@ ul {
   margin: 0;
   padding: 0;
 }
-
+li {
+  float: left;
+} 
 
 
 
@@ -197,9 +199,7 @@ ul {
 
 
 
-li {
-  float: left;
-} */
+
 /* 
 .me-link a {
     display: block;
